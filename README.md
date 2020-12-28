@@ -27,7 +27,7 @@ This is another basic site inspired by Tania Rascia (https://taniarascia.com). I
 ------------------
 ## Screenshots <a name="screenshots"></a>
 First Page: 
-![image description](images/cityCards.png
+![image description](images/cityCards.png)
 
 ------------------
 ## Technologies <a name="technologies"></a>
