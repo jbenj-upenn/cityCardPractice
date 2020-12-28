@@ -38,7 +38,7 @@ First Page:
 ------------------
 ## Links <a name="links"></a>
 
-* Github pages: [https://https://jbenj-upenn.github.io/cityCardPractice/](https://https://jbenj-upenn.github.io/cityCardPractice/)
+* Github pages: [https://jbenj-upenn.github.io/cityCardPractice/](https://jbenj-upenn.github.io/cityCardPractice/)
 * github: [https://github.com/jbenj-upenn/cityCardPractice](https://github.com/jbenj-upenn/cityCardPractice)
 
 ------------------
