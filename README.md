@@ -38,8 +38,8 @@ First Page:
 ------------------
 ## Links <a name="links"></a>
 
-* heroku: [https://](https://)
-* github: [https://](https://)
+* Github pages: [https://https://jbenj-upenn.github.io/cityCardPractice/](https://https://jbenj-upenn.github.io/cityCardPractice/)
+* github: [https://github.com/jbenj-upenn/cityCardPractice](https://github.com/jbenj-upenn/cityCardPractice)
 
 ------------------
 ## To-do list (future additions): <a name="todo"></a>
